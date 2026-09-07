@@ -1,0 +1,9 @@
+{
+  "name": "buildboard",
+  "version": "1.0.0",
+  "description": "A simple deployment dashboard for demonstrating GitHub Stacked Pull Requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
